@@ -45,6 +45,7 @@ section {
   font-size: 2em;
   text-align: center;
   padding: 10px;
+  vertical-align: middle;
 }
 
 .scoreboard {
